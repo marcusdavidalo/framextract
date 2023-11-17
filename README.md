@@ -28,3 +28,7 @@ python main.py
 4. Click “Extract Frames” to start the frame extraction process.
 
 The application will create a new folder in the output folder for each video, and save the extracted frames as `.jpg` files in this folder.
+
+## License
+
+This project uses the MIT License. See the LICENSE file for details.
